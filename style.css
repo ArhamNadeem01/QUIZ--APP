@@ -1,7 +1,7 @@
 /* General body styling */
 body {
   font-family: "Poppins", sans-serif;
-  background: url('pic1.avif') no-repeat center/cover;
+  background: red;
   color: #f9f9f9;
   display: flex;
   justify-content: center;
